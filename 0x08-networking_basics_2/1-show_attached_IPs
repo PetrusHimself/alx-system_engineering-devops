@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Script tp display all IPV4 IPS on a machine
+# This script displays all acive IPv4 addresses on the machine.
 
-ifconfig -a | grep inet | cut -d: -f2 | cut -d" "  -f1
+ifconfig | grep -Eo "inet (addr:)?([0-9]*\.){3}[0-9]*" | cut -b 6-
