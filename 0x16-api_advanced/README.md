@@ -4,16 +4,6 @@ PI advanced
 PythonScriptingBack-endAPI
 
 *   Weight: 1
-*   Project over - took place from May 7, 2024 6:00 AM to May 8, 2024 6:00 AM
-*   An auto review will be launched at the deadline
-
-#### In a nutshell…
-
-*   **Auto QA review:** 0.0/17 mandatory & 0.0/7 optional
-*   **Altogether:**  **0.0%**
-    *   Mandatory: 0.0%
-    *   Optional: 0.0%
-    *   Calculation:  0.0% + (0.0% \* 0.0%)  == **0.0%**
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/314/WIxXad8.png)
 
